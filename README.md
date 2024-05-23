@@ -11,6 +11,15 @@ utilizado o comando Switch para verificar as decisões de jogo do usuario,bem co
 para validar se o valor digitando pelo usuario e igual ao valor "pensando ".
 
 
+# 26/05/2024
+
+
+
+Desenvolvimento sistema de aleatorização de resposta utilzando o math.random();
+
+
+
+
 
 
 # proximos features
